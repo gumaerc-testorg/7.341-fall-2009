@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 97c8f5b4-ba07-f0ee-813f-97426f9a4143
 ---
@@ -45,10 +48,10 @@ Introduction
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 From Stem Cells to Blood
@@ -87,10 +90,10 @@ This paper is one of the first that demonstrates a clinical application for HSC 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Gene delivery vehicles engineered from viruses
@@ -129,10 +132,10 @@ Twenty six years after the previous paper was published much more was known abou
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Treating genetic disorders by fixing the bad gene.
@@ -171,10 +174,10 @@ Two years later this paper appeared. The bad news is that 2 out of 9 patients fr
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 RNAi: Using an ancient defense against viral infection to turn off disease genes
@@ -213,10 +216,10 @@ This paper describes lentiviral vectors that mediate down-regulation of specific
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Future of personalized medicine using induced pluripotent stem (iPS) cells
@@ -282,10 +285,10 @@ Field trip to the Whitehead Institute and to the Whitehhead Flow Cytometry Facil
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Identification of bcr-abl translocation and its oncogenic properties
@@ -318,10 +321,10 @@ Daley, G., R. Van Etten, and D. Baltimore. "[Induction of Chronic Myelogenous Le
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Drug development for inhibiting kinase activity in the bcr-abl fusion
@@ -354,10 +357,10 @@ Zimmermann, J., E. Buchdunger, H. Mett, T. Meyer, N. Lydon, and P. Traxler. "Pot
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Testing the efficacy of Gleevec in cell lines, mouse and human
@@ -390,10 +393,10 @@ Druker, B. J., C. L. Sawyers, H. Hantarjin, D. J. Resta, S. F. Reese, J. M. Ford
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Evolving resistance to Gleevec
@@ -426,10 +429,10 @@ Gorre, M., M. Mohammed, K. Ellwood, M. Hsu, R. Paquette, P. Rao, and C. Sawyers.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Overcoming Gleevec resistance
@@ -462,10 +465,10 @@ Hochhaus, A., H. Kan, M. Baccarani, J. Lipton, J. Apperley, B. Druker, T. Facon,
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Use of Gleevec in other diseases
