@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the reading assignments for the course along reading
+  notes from the professor.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -35,7 +37,7 @@ READING NOTES
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#We_will_get)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#We_will_get" %}}
 
 
 {{< tdclose >}}
@@ -56,7 +58,7 @@ Introduction
 
 From Stem Cells to Blood
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Hematopoiesis)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#Hematopoiesis" %}}
 
 
 {{< tdclose >}}
@@ -98,7 +100,7 @@ This paper is one of the first that demonstrates a clinical application for HSC 
 
 Gene delivery vehicles engineered from viruses
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Viruses_belonging)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#Viruses_belonging" %}}
 
 
 {{< tdclose >}}
@@ -140,7 +142,7 @@ Twenty six years after the previous paper was published much more was known abou
 
 Treating genetic disorders by fixing the bad gene.
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Instead_of_transplanting)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#Instead_of_transplanting" %}}
 
 
 {{< tdclose >}}
@@ -182,7 +184,7 @@ Two years later this paper appeared. The bad news is that 2 out of 9 patients fr
 
 RNAi: Using an ancient defense against viral infection to turn off disease genes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#In_2006_the_Nobel_Prize)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#In_2006_the_Nobel_Prize" %}}
 
 
 {{< tdclose >}}
@@ -224,7 +226,7 @@ This paper describes lentiviral vectors that mediate down-regulation of specific
 
 Future of personalized medicine using induced pluripotent stem (iPS) cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#IPS_cells)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#IPS_cells" %}}
 
 
 {{< tdclose >}}
@@ -266,7 +268,7 @@ Here the potential of iPS cells as treatment for genetic disorders is demonstrat
 
 Field trip to the Whitehead Institute and to the Whitehhead Flow Cytometry Facility
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Instead_of)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#Instead_of" %}}
 
 
 {{< tdclose >}}
@@ -293,7 +295,7 @@ Field trip to the Whitehead Institute and to the Whitehhead Flow Cytometry Facil
 
 Identification of bcr-abl translocation and its oncogenic properties
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#In_late_1950s)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#In_late_1950s" %}}
 
 
 {{< tdclose >}}
@@ -329,7 +331,7 @@ Daley, G., R. Van Etten, and D. Baltimore. "[Induction of Chronic Myelogenous Le
 
 Drug development for inhibiting kinase activity in the bcr-abl fusion
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#In_1986_and_1987)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#In_1986_and_1987" %}}
 
 
 {{< tdclose >}}
@@ -365,7 +367,7 @@ Zimmermann, J., E. Buchdunger, H. Mett, T. Meyer, N. Lydon, and P. Traxler. "Pot
 
 Testing the efficacy of Gleevec in cell lines, mouse and human
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Brian_Druker)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#Brian_Druker" %}}
 
 
 {{< tdclose >}}
@@ -401,7 +403,7 @@ Druker, B. J., C. L. Sawyers, H. Hantarjin, D. J. Resta, S. F. Reese, J. M. Ford
 
 Evolving resistance to Gleevec
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#While_the_mass)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#While_the_mass" %}}
 
 
 {{< tdclose >}}
@@ -410,7 +412,7 @@ Evolving resistance to Gleevec
 
 Paper 11a: A detailed and informative description of the structural interactions between Gleevec and the ABL protein using crystallographic studies, which provide significant insight into potential mechanisms of resistance.
 
-Schindler., T., W. Bornmann, P. Pellicena, W. Miller, B. Clarkson, and J. Kuriyan. "Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase." _Science_ 289 (2000): 1938-1942. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.3MB](https://science.sciencemag.org/content/289/5486/1938))
+Schindler., T., W. Bornmann, P. Pellicena, W. Miller, B. Clarkson, and J. Kuriyan. "Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase." _Science_ 289 (2000): 1938-1942. ([PDF - 1.3MB](https://science.sciencemag.org/content/289/5486/1938))
 
 
 {{< tdclose >}}
@@ -422,7 +424,7 @@ Schindler., T., W. Bornmann, P. Pellicena, W. Miller, B. Clarkson, and J. Kuriya
 
 Paper 11b: This study describes potential mechanisms of resistance in CML in patients bearing bcr-abl translocation.
 
-Gorre, M., M. Mohammed, K. Ellwood, M. Hsu, R. Paquette, P. Rao, and C. Sawyers. "Clinical Resistance to STI-571 Cancer Therapy Caused by bcr-abl Gene Mutation or Amplification." _Science_ 293 (2001): 876-880. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://science.sciencemag.org/content/289/5486/1938))
+Gorre, M., M. Mohammed, K. Ellwood, M. Hsu, R. Paquette, P. Rao, and C. Sawyers. "Clinical Resistance to STI-571 Cancer Therapy Caused by bcr-abl Gene Mutation or Amplification." _Science_ 293 (2001): 876-880. ([PDF](https://science.sciencemag.org/content/289/5486/1938))
 
 
 {{< tdclose >}}
@@ -437,7 +439,7 @@ Gorre, M., M. Mohammed, K. Ellwood, M. Hsu, R. Paquette, P. Rao, and C. Sawyers.
 
 Overcoming Gleevec resistance
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Since_the_problem)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#Since_the_problem" %}}
 
 
 {{< tdclose >}}
@@ -473,7 +475,7 @@ Hochhaus, A., H. Kan, M. Baccarani, J. Lipton, J. Apperley, B. Druker, T. Facon,
 
 Use of Gleevec in other diseases
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_huge_success)
+{{% resource_link 34871cc4-427e-7994-32cb-488fbac61f71 "See the Lecture Summary" "#The_huge_success" %}}
 
 
 {{< tdclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with an overview what was covered in each session of this course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
