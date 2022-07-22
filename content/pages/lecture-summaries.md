@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with an overview what was covered in each session of this course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 34871cc4-427e-7994-32cb-488fbac61f71
 ---
@@ -44,7 +49,7 @@ From Stem Cells to Blood
 {{< tdopen >}}
 
 
-{{< anchor "Hematopoiesis" >}}{{< /anchor >}}Hematopoiesis is the process of the continuous formation of the blood system. It is estimated that 2 x 1011 red blood cells and 7 x 1010 neutrophilic leukocytes (the most abundant type of white blood cells) are produced every day in the human body, which sums up to several thousand kilograms during a human lifespan. This enormous output of mature blood cells is derived from a very rare cell type named the hematopoieteic stem cell (HSC). By definition a single HSC is capable of producing all cell types of the hematopoietic system, including new HSCs and all classes of mature cells in the circulating blood. This clonal development of the blood system has enabled researchers and physicians to transplant HSCs, and thus entire hematopoietic systems, from one individual to another.
+{{< anchor "Hematopoiesis" >}}{{< /anchor >}}Hematopoiesis is the process of the continuous formation of the blood system. It is estimated that 2 x 10{{< sup "11" >}} red blood cells and 7 x 10{{< sup "10" >}} neutrophilic leukocytes (the most abundant type of white blood cells) are produced every day in the human body, which sums up to several thousand kilograms during a human lifespan. This enormous output of mature blood cells is derived from a very rare cell type named the hematopoieteic stem cell (HSC). By definition a single HSC is capable of producing all cell types of the hematopoietic system, including new HSCs and all classes of mature cells in the circulating blood. This clonal development of the blood system has enabled researchers and physicians to transplant HSCs, and thus entire hematopoietic systems, from one individual to another.
 
 A strict clonal hierarchy of differentiation stages from the HSC to mature blood cells is important to maintain control over hematopoiesis. When a HSC divides it can give rise to zero, one or two HSCs, or to zero, one or two more mature multi-potent progenitor cells that in turn can divide into even more mature progenitor cells. After a few more cell divisions, depending on signals from the environment, morphologically recognizable blood precursor cells are formed that can give rise to mature blood cells that are able to leave the bone marrow. During this long chain of events every cell division is accompanied by a decision of the fate of the progeny. It is believed that no daughter cell can ever become more primitive after mitosis, but the cells can choose to go into apoptosis (programmed cell death), to differentiate, or in some cases to self-renew. Today we probably know more about blood development than about development of any other organ in our body.
 
